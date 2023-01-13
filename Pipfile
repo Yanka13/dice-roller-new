@@ -13,7 +13,7 @@ werkzeug = "==2.0.2"
 
 [dev-packages]
 flask-testing = "*"
-nose = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.10"
