@@ -1,5 +1,4 @@
 name: Basic CI
-ca
 on:
   push:
     branches: [ master ]
